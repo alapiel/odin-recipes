@@ -1,3 +1,3 @@
 # odin-recipes
-My second Github repo
-Hello Odin!
+This project is for The Odin project learning platform. 
+I am creating a recipe website with 3 recipes each in a different webpage.
