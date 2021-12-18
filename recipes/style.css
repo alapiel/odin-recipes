@@ -1,0 +1,49 @@
+        
+        * {
+            box-sizing: border-box;
+          }
+          
+        h1 {
+        color: orange;
+        font-size: 40px;
+        text-shadow: 3px 3px 3px #685f5f;
+        }
+    
+        body {
+        font-family: "Sofia", sans-serif;
+        padding-left: 10px;
+        }
+    
+        .box {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+        margin-bottom: 10px;
+        }
+    
+        .box > div {
+        width: 400px;
+        text-align: left;
+        border: 3px outset orange;
+        padding: 10px;
+        }
+    
+        .steps{
+        flex-basis:600px; 
+        width: auto;
+        align-self: center;
+        border: 3px outset orange;
+        padding: 5px;
+        }
+
+        .back{
+            text-align: center;
+            font-size: 25px;
+        }
+
+        .footer{
+            background-color:#e5e5e5;
+            text-align:center;
+            padding:10px;
+            margin-top:7px;
+        }
